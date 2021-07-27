@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/spotify/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/spotify/static/js/main.22342fb6.chunk.js",
+    "main.js.map": "/spotify/static/js/main.22342fb6.chunk.js.map",
+    "runtime-main.js": "/spotify/static/js/runtime-main.76bd9804.js",
+    "runtime-main.js.map": "/spotify/static/js/runtime-main.76bd9804.js.map",
+    "static/js/2.d8ea580c.chunk.js": "/spotify/static/js/2.d8ea580c.chunk.js",
+    "static/js/2.d8ea580c.chunk.js.map": "/spotify/static/js/2.d8ea580c.chunk.js.map",
+    "static/js/3.431c71f3.chunk.js": "/spotify/static/js/3.431c71f3.chunk.js",
+    "static/js/3.431c71f3.chunk.js.map": "/spotify/static/js/3.431c71f3.chunk.js.map",
+    "index.html": "/spotify/index.html",
+    "static/css/main.ea1455b2.chunk.css.map": "/spotify/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.d8ea580c.chunk.js.LICENSE.txt": "/spotify/static/js/2.d8ea580c.chunk.js.LICENSE.txt",
+    "static/media/Spotify.3eae42e9.jpeg": "/spotify/static/media/Spotify.3eae42e9.jpeg",
+    "static/media/background.ab8d1e0e.jpeg": "/spotify/static/media/background.ab8d1e0e.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76bd9804.js",
+    "static/js/2.d8ea580c.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.22342fb6.chunk.js"
+  ]
+}
